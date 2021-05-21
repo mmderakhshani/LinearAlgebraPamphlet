@@ -3,4 +3,4 @@ This is a repository containing my pamphlet regarding Linear Algebra course held
 
 You can find my pamphlet in my google drive using [this link](https://drive.google.com/file/d/1BNRlFmZMztHuKTYWtbzTDqWknPoOMrOq/view?usp=sharing).
 
-This hand notes will be completed and updated soon.
+This pamphlet will be completed and updated soon.
